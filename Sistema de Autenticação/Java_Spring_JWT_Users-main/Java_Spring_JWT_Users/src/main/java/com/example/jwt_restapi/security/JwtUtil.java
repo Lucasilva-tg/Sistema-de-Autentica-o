@@ -20,7 +20,7 @@ public class JwtUtil {
         this.SECRET_KEY = Keys.hmacShaKeyFor(Decoders.BASE64.decode(secret));
     }
 
-    private static final long EXPIRATION_TIME = 864_000_000; // 10 days
+    private static final long EXPIRATION_TIME = 864_000_000;
 
     public String generateToken(String username, String role) {
         return Jwts.builder()
