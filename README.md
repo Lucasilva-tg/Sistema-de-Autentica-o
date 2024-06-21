@@ -28,3 +28,8 @@ A minha classe "service" "AuthService" ela da autenticação dos usuarios.
 A minha classe "service" "UserService" Ele registra os usuarios.
 ![service2](https://github.com/Lucasilva-tg/Sistema-de-Autentica-o/assets/101115192/78e2c6e3-6932-45b2-99ff-7e5800a6d1fb)
 
+
+Diagrama
+
+![figma](https://github.com/Lucasilva-tg/Sistema-de-Autentica-o/assets/101115192/ebd04f34-40d6-4ae7-a5ee-237935e205d6)
+
