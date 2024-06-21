@@ -33,3 +33,7 @@ Diagrama
 
 ![figma](https://github.com/Lucasilva-tg/Sistema-de-Autentica-o/assets/101115192/ebd04f34-40d6-4ae7-a5ee-237935e205d6)
 
+Usando o insomnia consigo fazer requisição GET.
+![inso](https://github.com/Lucasilva-tg/Sistema-de-Autentica-o/assets/101115192/461d14af-ac87-4410-82f2-93dc3ba9ee47)
+
+
